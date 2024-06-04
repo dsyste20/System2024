@@ -48,7 +48,7 @@
 - Breadboard
 - 2x lampjes
 - 1x knop
-- 2x weerstand 220 &#937; & 1x weerstand 10 k&#937;
+- 2x weerstand 220 &#937; & 1x weerstand 10 K&#937;
 - 10x Connectie draadjes
 
 ### Screenshot
