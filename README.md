@@ -11,7 +11,7 @@
 - 2 x weerstand
 
 ### Screenshot
-![Opdracht 1](images/HI_Opdraht1.png)
+![Opdracht 1](images/HI_Opdracht1.png)
 
 ### Video
 ![]()
