@@ -6,8 +6,8 @@
 - Dan Tinkeren en testen •Dan opbouwen en testen.
 
 ### Analyse
-Breadboard
-2 x lampjes
-2 x weerstand
+- Breadboard
+- 2 x lampjes
+- 2 x weerstand
 
-![Opdracht 1](images/HI_Opdracht1.png)
+![Opdracht 1](images/HI_Opdraht1.png)
