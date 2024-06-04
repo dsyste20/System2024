@@ -14,7 +14,8 @@
 ![Opdracht 1](images/HI_Opdracht1.png)
 
 ### Video
-![]()
+[Watch the game in action](https://your-link-to-video.com)
+![opdracht 1 video]()
 
 ## Opdracht 2
 - Sluit 8 LED’s aan op externe poorten.
@@ -31,4 +32,5 @@
 ![Opdracht 2](images/HI_Opdraht2.png)
 
 ### Video
-![]()
+[Watch the game in action](https://your-link-to-video.com)
+![Opdracht 2 video]()
