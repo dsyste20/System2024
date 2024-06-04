@@ -1,16 +1,12 @@
-// C++ code
-//
-
 //Pin Array van de lampjes
 const int pinsArray[] = {11, 5};
 // Pin van de button
 const int pinButton = 8;
-
 //State van de button begint bij uit.
-int buttonState = 0;    
-//prev state is ook uit.
+int button = 0;    
+//prev state bestaat nog niet.
 int prevState = 0;     
-//Er bestaat nog geen state dus counter op 0.
+//Er bestaat nog geen state dus counter begint op 0.
 int stateCounter = 0;   
 
 void setup()
@@ -26,21 +22,25 @@ void setup()
 void loop()
 {
   //lees de status van de knop
-  buttonState = digitalRead(pinButton);
+  button = digitalRead(pinButton);
 
+  checkState(button);
+}
+
+void checkState(int button) 
+{
   //vergelijk de huidige knopstatus met de vorige knopstatus
-  if (buttonState != prevState) {
+  if (button != prevState) {
     // Als de knopstatus is veranderd, controleer of de knop is ingedrukt
-    if (buttonState == HIGH) {
-      //Counnter + 1
+    if (button == HIGH) {
+      //Counter + 1
       stateCounter++;
       //Roep functie aan.
       OnAndOff(stateCounter, 50); 
     }
   }
-  
   //sla de huidige knopstatus op.
-  prevState = buttonState;
+  prevState = button;
 }
 
 void OnAndOff(int state, int time)
