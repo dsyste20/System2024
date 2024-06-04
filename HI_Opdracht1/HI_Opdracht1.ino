@@ -1,3 +1,5 @@
+//Code voorbeeld uit de Startworkshop gebruikt
+
 //Array voor de pins
 const int pinsArray[] = {13, 10};
 
