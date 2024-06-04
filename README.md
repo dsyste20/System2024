@@ -15,7 +15,7 @@
 ![Opdracht 1](images/HI_Opdracht1.png)
 
 ### Video
-[Watch the game in action](https://your-link-to-video.com)
+[Watch the lights in action](https://your-link-to-video.com)
 ![opdracht 1 video]()
 
 ## Opdracht 2
@@ -34,7 +34,7 @@
 ![Opdracht 2](images/HI_Opdracht2.png)
 
 ### Video
-[Watch the game in action](https://your-link-to-video.com)
+[Watch the lights in action](https://your-link-to-video.com)
 ![Opdracht 2 video]()
 
 ## Opdracht 3
@@ -55,5 +55,29 @@
 ![Opdracht 3](images/HI_Opdracht3.png)
 
 ### Video
-[Watch the game in action](https://your-link-to-video.com)
+[Watch the lights in action](https://your-link-to-video.com)
 ![Opdracht 3 video]()
+
+## Opdracht 4
+Maak een sketch om 6 LED’s aan te sturen afhankelijk van de 
+hoekverdraaiing van de potmeter. (Eerst Tinkeren!!)
+
+Je mag zelf de uitgangen kiezen waar de LED’s op worden aangesloten, 
+je mag ook de analoge ingang zelf kiezen. 
+
+- Vergeet niet de voorschakelweerstanden te gebruiken. 
+- Hoe verder je de knop naar rechts ( 1023 ) draait, 
+  hoe meer LED’s er uit gaan.
+
+### Analyse
+- Breadboard
+- 6x lampjes
+- 6x weerstand 220 &#937
+- 19x Connectie draadjes
+
+### Screenshot
+![Opdracht 4](images/HI_Opdracht4.png)
+
+### Video
+[Watch the lights in action](https://your-link-to-video.com)
+![Opdracht 4 video]()
