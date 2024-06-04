@@ -7,8 +7,9 @@
 
 ### Analyse
 - Breadboard
-- 2 x lampjes
-- 2 x weerstand
+- 2x lampjes
+- 2x weerstand
+- 8x Connectie draadjes
 
 ### Screenshot
 ![Opdracht 1](images/HI_Opdracht1.png)
@@ -25,11 +26,12 @@
 
 ### Analyse
 - Breadboard
-- 8 x lampjes
-- 8 x weerstand
+- 8x lampjes
+- 8x weerstand
+- 20x Connectie draadjes
 
 ### Screenshot
-![Opdracht 2](images/HI_Opdraht2.png)
+![Opdracht 2](images/HI_Opdracht2.png)
 
 ### Video
 [Watch the game in action](https://your-link-to-video.com)
