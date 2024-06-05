@@ -15,8 +15,13 @@
 ![Opdracht 1](images/HI_Opdracht1.png)
 
 ### Video
-[Watch the lights in action](https://your-link-to-video.com)
-![opdracht 1 video]()
+[Watch the lights in action]()
+
+<video width="320" height="240" controls>
+  <source src="videos/HI_Opdracht1.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## Opdracht 2
 - Sluit 8 LED’s aan op externe poorten.
