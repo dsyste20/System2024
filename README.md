@@ -7,7 +7,8 @@
 
 ### Analyse
 - Breadboard
-- 2x lampjes
+- Arduino Uno
+- 2x lampjes rood
 - 2x weerstand 220 &#937;
 - 8x Connectie draadjes
 
@@ -25,7 +26,8 @@
 
 ### Analyse
 - Breadboard
-- 8x lampjes
+- Arduino Uno
+- 8x lampjes rood
 - 8x weerstand 220 &#937; 
 - 20x Connectie draadjes
 
@@ -44,9 +46,11 @@
 
 ### Analyse
 - Breadboard
-- 2x lampjes
-- 1x knop
-- 2x weerstand 220 &#937; & 1x weerstand 10 K&#937;
+- Arduino Uno
+- 2x lampjes rood
+- 1x drukknop
+- 2x weerstand 220 &#937;
+- 1x weerstand 10 K&#937;
 - 10x Connectie draadjes
 
 ### Screenshot
@@ -68,8 +72,10 @@ je mag ook de analoge ingang zelf kiezen.
 
 ### Analyse
 - Breadboard
-- 6x lampjes
-- 6x weerstand 220 &#937
+- Arduino Uno
+- 6x lampjes rood
+- 6x weerstand 220 &#937;
+- 1x potentiometer 250 K&#937;
 - 19x Connectie draadjes
 
 ### Screenshot
@@ -91,8 +97,9 @@ Op de Arduino zijn 2 drukknoppen aangesloten.
 
 ### Analyse
 - Breadboard
-- 2x buttons
-- 2x weerstand 10 K&#937
+- Arduino Uno
+- 2x drukknop
+- 2x weerstand 10 K&#937;
 - 10x Connectie draadjes
 - 1x servo motor
 
@@ -101,3 +108,27 @@ Op de Arduino zijn 2 drukknoppen aangesloten.
 
 ### Video
 [Watch the motor in action](https://your-link-to-video.com)
+
+## Opdracht 6
+Maak een schakeling en een sketch waarbij: 
+- Een servomotor in rust op 0⁰ staat. 
+- Als een object binnen 10 cm van de ultrasoon zender / ontvanger komt, 
+dan staat de motor linksom. 
+- Als het object op 4 cm staat, staat de servo volledig rechtsom ( 180⁰ ). 
+- Alle afstanden hiertussen zullen een bijbehorende hoek krijgen.
+
+### Analyse
+- Breadboard
+- Arduino Uno
+- Ultrasone afstandssensor (4-pins)
+- 11x Connectie draadjes
+- 1x servo motor
+
+### Screenshot
+![Opdracht 6](images/HI_Opdracht6.png)
+
+### Video
+[Watch the motor in action](https://your-link-to-video.com)
+
+Source: https://www.instructables.com/Controlling-a-Servo-With-an-Ultrasonic-Sensor-Usin/
+NewPing: https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
