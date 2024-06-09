@@ -131,4 +131,5 @@ dan staat de motor linksom.
 [Watch the motor in action](https://your-link-to-video.com)
 
 Source: https://www.instructables.com/Controlling-a-Servo-With-an-Ultrasonic-Sensor-Usin/
+<br> 
 NewPing: https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
