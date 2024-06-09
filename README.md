@@ -34,7 +34,6 @@
 
 ### Video
 [Watch the lights in action](https://your-link-to-video.com)
-![Opdracht 2 video]()
 
 ## Opdracht 3
 - Sluit een LED aan op poort 5 en een op poort 11. 
@@ -55,7 +54,6 @@
 
 ### Video
 [Watch the lights in action](https://your-link-to-video.com)
-![Opdracht 3 video]()
 
 ## Opdracht 4
 Maak een sketch om 6 LED’s aan te sturen afhankelijk van de 
@@ -79,4 +77,27 @@ je mag ook de analoge ingang zelf kiezen.
 
 ### Video
 [Watch the lights in action](https://your-link-to-video.com)
-![Opdracht 4 video]()
+
+## Opdracht 5
+Op de Arduino zijn 2 drukknoppen aangesloten. 
+- Zolang op drukknop 1 wordt gedrukt draait een servomotor van 0° naar 120° in 3s. 
+- Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, ook in 3s. 
+- Zolang op drukknop 2 wordt gedrukt draait een servomotor van 0° naar 120° in 0,5s.  
+- Als de servomotor zijn uiterste stand heeft bereikt dan moet hij terugdraaien, ook in 0,5s. 
+- Worden beide drukknoppen tegelijk ingedrukt, dan zal  de servomotor in 3s van 0° naar 120° draaien, 
+5s zo blijven staan en vervolgens in 0.5s terugdraaien naar 0°. 
+- De beweging van de servomotor dient in één functie / methode te zijn ontworpen. 
+- Ingangen en uitgangen zijn vrij te kiezen.Opdracht 5Bron: pixabay.com
+
+### Analyse
+- Breadboard
+- 2x buttons
+- 2x weerstand 10 K&#937
+- 10x Connectie draadjes
+- 1x servo motor
+
+### Screenshot
+![Opdracht 5](images/HI_Opdracht5.png)
+
+### Video
+[Watch the motor in action](https://your-link-to-video.com)
