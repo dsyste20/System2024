@@ -57,7 +57,7 @@
 ![Opdracht 3](images/HI_Opdracht3.png)
 
 ### Video
-[Watch the lights in action](https://your-link-to-video.com)
+[Watch the lights in action](https://drive.google.com/file/d/1qpbXaGsZzz5JuwW4bawIBb56GxcNYYaC/view?usp=sharing)
 
 ## Opdracht 4
 Maak een sketch om 6 LED’s aan te sturen afhankelijk van de 
@@ -82,7 +82,7 @@ je mag ook de analoge ingang zelf kiezen.
 ![Opdracht 4](images/HI_Opdracht4.png)
 
 ### Video
-[Watch the lights in action](https://your-link-to-video.com)
+[Watch the lights in action](https://drive.google.com/file/d/1cx3sWYz1wUCIyqnsXiN3122VU-KMwSQF/view?usp=sharing)
 
 ## Opdracht 5
 Op de Arduino zijn 2 drukknoppen aangesloten. 
@@ -107,7 +107,7 @@ Op de Arduino zijn 2 drukknoppen aangesloten.
 ![Opdracht 5](images/HI_Opdracht5.png)
 
 ### Video
-[Watch the motor in action](https://your-link-to-video.com)
+[Watch the motor in action](https://drive.google.com/file/d/1VK5yiW7jjpMgkDyAgyp0vdXB88dRVKZn/view?usp=sharing)
 
 ## Opdracht 6
 Maak een schakeling en een sketch waarbij: 
@@ -128,8 +128,10 @@ dan staat de motor linksom.
 ![Opdracht 6](images/HI_Opdracht6.png)
 
 ### Video
-[Watch the motor in action](https://your-link-to-video.com)
+[Watch the motor in action](https://drive.google.com/file/d/1B4H8LVP_OZJKNtWh2OGSfFa8ZDjVKgGR/view?usp=sharing)
 
 Sources: <br>
 - Opzet: https://www.instructables.com/Controlling-a-Servo-With-an-Ultrasonic-Sensor-Usin/
 - NewPing: https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
+
+[Bekijk alle filmpjes](https://drive.google.com/drive/folders/17FqKY_IycCiRQR89rUC5IURbRVuX_4Xd?usp=sharing)
