@@ -35,7 +35,7 @@
 ![Opdracht 2](images/HI_Opdracht2.png)
 
 ### Video
-[Watch the lights in action](https://your-link-to-video.com)
+[Watch the lights in action](https://drive.google.com/file/d/14uPMsJM1mo8JpzF92DStko-pnzFxj2kE/view?usp=sharing)
 
 ## Opdracht 3
 - Sluit een LED aan op poort 5 en een op poort 11. 
