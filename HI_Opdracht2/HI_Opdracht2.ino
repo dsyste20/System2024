@@ -7,25 +7,25 @@ void setup()
 {
   //For loop om door de array te lopen en dan de pins aan te laten gaan.
   for (int count = 0; count < 8; count++) {
-    //pinMode --> Classe om de pin open te zetten --> pinMode(welke pin je wilt gebruiken, als INPUT of OUTPUT gebruiken)
+    //pinMode --> Class om de pin open te zetten --> pinMode(welke pin je wilt gebruiken, als INPUT of OUTPUT gebruiken)
   	pinMode(pinsArray[count], OUTPUT);
   }
 }
 
 void loop()
 {
-  //door de array lopen van links naar rechts en de functie knipper aan te roepen.
+  //door de array lopen van links naar rechts en de functie flash aan te roepen.
   for (int count = 0; count < 8; count++) { 
     flash(count, 100); 
   }
   
-  // Door de array lopen van rechts naar links en de functie knipper aan te roepen.
+  // Door de array lopen van rechts naar links en de functie flash aan te roepen.
   for (int count = 7; count >= 0; count--) {
     flash(count, 100);
   }
 }
 
-//functie knipper zegt wat digitalWrite moet doen
+//functie flash zegt wat digitalWrite moet doen
 void flash(int pin, int time)
 {
   //pin aanzetten --> digitalWrite(welke pin je wilt gebruiken, 

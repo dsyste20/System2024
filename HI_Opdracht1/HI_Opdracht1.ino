@@ -7,7 +7,7 @@ void setup()
 {
   //For loop om door de array te lopen en dan de pins aan te laten gaan.
   for (int count = 0; count < 2; count++) {
-    //pinMode --> Classe om de pin open te zetten --> pinMode(welke pin je wilt gebruiken, als INPUT of OUTPUT gebruiken)
+    //pinMode --> Class om de pin open te zetten --> pinMode(welke pin je wilt gebruiken, als INPUT of OUTPUT gebruiken)
   	pinMode(pinsArray[count], OUTPUT);
   }
 }

@@ -1,3 +1,5 @@
+//Code voorbeeld uit de Startworkshop gebruikt
+
 //Pin Array van de lampjes
 const int pinsArray[] = {11, 5};
 // Pin van de button

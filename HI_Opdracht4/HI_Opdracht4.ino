@@ -1,3 +1,5 @@
+//Code voorbeeld uit de Vervolgworkshop gebruikt
+
 //sluit de lampjes aan op de pins
 int pinsArray[] = {13, 11, 9, 7, 5, 3}; 
 //sluit de LED aan op pin A2

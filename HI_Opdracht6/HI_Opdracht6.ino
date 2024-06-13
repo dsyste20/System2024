@@ -23,7 +23,7 @@ void setup()
 
 void loop()
 {
-  //zal nooit een negatief getal zijn
+  //unsigned --> zal nooit een negatief getal zijn
   //van echo naar cm
   unsigned int cm = sensor.ping_cm();
   
