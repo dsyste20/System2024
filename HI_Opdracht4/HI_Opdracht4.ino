@@ -5,7 +5,7 @@ int pinsArray[] = {13, 11, 9, 7, 5, 3};
 //sluit de LED aan op pin A2
 int potPin = A2; 
 //de startwaarde voor de potmeter is 0
-int potMeterWaarde = 0;
+int potMeterValue = 0;
 
 void setup() {
   //initialiseren van elke LED pin als een output
@@ -24,7 +24,7 @@ void loop() {
   //update de status van de LEDs
   changeLeds(ledsOff);
   //voer een delay uit met als waarde de potmeter
-  delay(potMeterWaarde);
+  delay(potMeterValue);
 }
 
 //functie om het aantal LEDs dat uit is te controleren
