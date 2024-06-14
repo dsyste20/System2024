@@ -100,7 +100,7 @@ Op de Arduino zijn 2 drukknoppen aangesloten.
 - Arduino Uno
 - 2x drukknop
 - 2x weerstand 10 K&#937;
-- 10x Connectie draadjes
+- 9x Connectie draadjes
 - 1x servo motor
 
 ### Screenshot
